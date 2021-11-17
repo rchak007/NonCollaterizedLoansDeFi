@@ -26,7 +26,7 @@ https://api.consumer.equifax.com/saas/docs/api/index.html
 
 
 
-![image-20211117155629649](/Users/chakravartiraghavan/Documents/pepperdinegitlab/Github/NonCollaterizedLoansDeFi/Images/ChainLinkAnyApi.png)
+![image-20211117155629649](Images/ChainLinkAnyApi.png)
 
 
 
